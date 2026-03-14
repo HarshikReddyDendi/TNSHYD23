@@ -157,8 +157,8 @@ CREATE TABLE mall (
 
 ###📝 Author       
  DendiHarshikReddy 
- 📧 Email:        
- 🔗 GitHub: https://github.com/SharathKasthala  
+ 📧 Email:harshikdendi2003@gmail.com    
+ 🔗 GitHub: https://github.com/HarshikReddyDendi
  
 
 ⭐ If you find this project helpful, consider giving it a star!
